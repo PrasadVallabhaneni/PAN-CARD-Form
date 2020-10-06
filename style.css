@@ -1,0 +1,79 @@
+ table {
+        border-collapse: collapse;
+        width: 95%;
+        background-color: #FFFDDD;
+      }
+
+      
+      th {
+        border: 1.5px solid #181717;
+        text-align: center;
+        padding: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(248, 245, 233);
+          background-color:#880703 ;
+          height: 10px;
+          font-size: 12px;
+          padding: 0px;
+      }
+      td{
+          border: 1.5px solid #181717;
+           font-family: Arial, Helvetica, sans-serif;
+           font-size: 14px;
+      }
+      .mark{
+          color:#f1211a
+      }
+      .link{
+          color: rgb(231, 133, 20) ;
+      }
+      #sub{
+          font-weight: lighter;
+      }
+      .box{
+          width: 10px;
+      }
+      .frst{
+          margin-left: 250px;
+      }
+      .sec{
+          margin-left: 250px;
+      }
+      .frstinp{
+          margin-left: 215px;
+      }
+      .secinp{
+          margin-left: 155px;
+      }
+      .green{
+          font-weight: lighter;
+          color: green;
+      }
+      .tr{
+          width: 390px;
+      }
+      .tg{
+          width: 400px;
+      }
+      #bottom{
+          margin-top: -14px;
+          width: 95%;
+        background-color: #FFFDDD;
+        height: 350px;
+        font-size: 14px;
+      }
+      .ft{
+          margin-left: 200px;
+      }
+      .txt{
+          margin-left: 420px;
+          margin-top: -20px;
+         
+      }
+      #footer{
+       
+          width: 95%;
+          border-width: 0 0 2px;
+          border-style: solid;
+          border-color: grey;
+      }
